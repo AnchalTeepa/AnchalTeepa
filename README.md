@@ -46,7 +46,4 @@ I am a recent B.Tech graduate in Computer Science and Engineering from Gyan Gang
 ---
 [![](https://komarev.com/ghpvc/?username=AnchalTeepa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalTeepa&layout=compact&theme=default)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
