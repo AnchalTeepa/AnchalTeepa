@@ -77,6 +77,8 @@ I am eager to expand my skills and contribute to innovative, data-driven solutio
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AnchalTeepa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+![Top Repo](https://github-stats-extended.vercel.app/api/pin/?username=AnchalTeepa&repo=AnchalTeepa-DataAnalyst-Internship-Portfolio&theme=tokyonight&hide_border=true)
+
 ![Top Repo](https://github-stats-extended.vercel.app/api/pin/?username=AnchalTeepa&repo=GroupDNA-WhatsApp-Chat-Analyzer&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnchalTeepa&label=Profile%20Views&color=0e75b6&style=flat)
